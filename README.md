@@ -8,6 +8,12 @@ The project goal is to retrieve the activity the time activiy of my mac per appl
 # Stack 
 
 
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,pandas,sqlite,cloudflare,bash,git,github" />
+  </a>
+</p>
+
 
 
 
