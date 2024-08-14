@@ -21,9 +21,11 @@ The project goal is to retrieve the activity the time activiy of my mac per appl
 # Architecture Schema 
 
 
+![Copie de Schema play-gcp-bq](https://github.com/user-attachments/assets/90f9256f-7ecc-4efc-9764-dc0e74c8247e)
 
 
 
 # Technical explanation 
+
 
 
